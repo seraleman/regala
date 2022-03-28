@@ -1,0 +1,3 @@
+[submodule "regala_product_be"]
+	path = regala_product_be
+	url = https://github.com/seraleman/regala_product_be.git
